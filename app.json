@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.sakshi_rn_dev.AwesomeProject"
+      "package": "com.ashir_rn_dev.AwesomeProject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
